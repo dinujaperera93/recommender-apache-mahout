@@ -28,7 +28,7 @@ This tutorial uses Ratings given to movie titles by users in the [MovieLens data
 ## Part 2 - Building a Recommender Service
 
 1. Get Twisted, and Klein and Redis modules for Python.
-> `pip3 install --user twistd`  
+> `pip3 install --user twisted`  
 > `pip3 install --user klein`  
 > `pip3 install --user redis`  
 2. Install Redis and start up the server.
