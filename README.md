@@ -46,7 +46,7 @@ Put the content in [scripts/server.py](./scripts/server.py) into a new python fi
 > 
 > ![recommender-service-api](./screens/recommender-service-api.png)
 
-Now you have a movie recommender service 
+## Now you have a movie recommender service 
 
 
 
